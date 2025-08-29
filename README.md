@@ -3,6 +3,7 @@
 
 🎯 I have a serious motivation in the Artificial Intelligence Field (AI) with interests in:
 
+- 📊 Data Analysis;
 - 🤖 Machine Learning;
 - 🧠 NLP (Natural Language Processing);
 - 🎨 Generative AI systems (text, images, music, video); 
